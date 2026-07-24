@@ -1,4 +1,3 @@
-[Proxy]
 🇭🇰 香港 01丨1x HK = ss, cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com, 12022, encrypt-method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=9dfb850dbf11.microsoft.com
 🇭🇰 香港 02丨1x HK = ss, cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com, 12023, encrypt-method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=9dfb850dbf11.microsoft.com
 🇭🇰 香港 03丨1x HK = ss, cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com, 12024, encrypt-method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=9dfb850dbf11.microsoft.com
