@@ -1,234 +1,234 @@
-🇭🇰 香港 01丨1x HK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12022,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇰 香港 02丨1x HK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12023,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇰 香港 03丨1x HK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12024,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇰 香港家宽 01丨1x HK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12729,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇰 香港家宽 02丨1x HK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,13105,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇰 香港家宽 03丨1x HK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,13115,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇰 香港家宽 04丨1x HK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20187,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇰 香港游戏丨2x HK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12312,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇴 澳门家宽 01丨5x MO=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,19527,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇴 澳门家宽 02丨5x MO=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20032,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇼 台湾 01丨1x TW=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12304,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇼 台湾 02丨1x TW=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12305,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇼 台湾 03丨1x TW=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12306,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇼 台湾家宽 01丨2x TW=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20036,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇼 台湾家宽 02丨2x TW=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20037,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇼 台湾家宽 03丨2x TW=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20038,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇼 台湾家宽 04丨3x TW=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20197,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇬 新加坡 01丨1x SG=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12000,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇬 新加坡 02丨1x SG=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12002,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇬 新加坡 03丨1x SG=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12003,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇬 新加坡家宽 01丨10x SG=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12726,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇬 新加坡家宽 02丨10x SG=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,13116,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇾 马来西亚家宽 01丨1x MY=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12727,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇾 马来西亚家宽 02丨1x MY=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,13182,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇭 柬埔寨丨3x KH=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12701,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇭 泰国 01丨3x TH=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20054,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇭 泰国 02丨3x TH=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20059,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇭 泰国家宽丨10x TH=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20181,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇲 缅甸丨10x MM=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,13137,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇱🇦 老挝丨5x LA=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,13138,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇻🇳 越南家宽 01丨2x VN=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12700,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇻🇳 越南家宽 02丨2x VN=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20153,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇻🇳 越南家宽 03丨2x VN=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20154,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本 01丨1x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,12011,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本 02丨1x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,12010,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本 03丨1x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,12012,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 01丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13101,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 02丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13221,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 03丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13240,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 04丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13241,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 05丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13242,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 06丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13272,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 07丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13273,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 08丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13292,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 09丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13299,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 10丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13300,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 11丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13269,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本家宽 12丨3x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13304,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本蜂窝5G丨10x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13282,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇵 日本星链丨10x JP=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13278,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇷 韩国家宽 01丨5x KR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,50017,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇷 韩国家宽 02丨5x KR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,50016,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇷 韩国家宽 03丨5x KR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,50015,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇷 韩国蜂窝5G丨10x KR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13294,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇷 韩国星链丨10x KR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13298,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇹 不丹住宅丨5x BT=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20184,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇳 文莱丨5x BN=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20040,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇺 关岛丨3x GU=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13308,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇫🇯 斐济住宅丨10x FJ=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,13185,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇭 菲律宾丨2x PH=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12406,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇭 菲律宾家宽 01丨5x PH=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20057,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇭 菲律宾家宽 02丨5x PH=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20193,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇮🇩 印尼-棉兰丨1x ID=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12300,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇮🇩 印尼-雅加达丨1x ID=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12301,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇮🇩 印尼家宽丨10x ID=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20195,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇮🇳 印度丨1x IN=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12302,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇳 蒙古丨2x MN=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12328,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇯🇴 约旦丨2x JO=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12708,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇾🇪 也门丨5x YE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13210,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇭 巴林丨5x BH=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20056,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇴🇲 阿曼丨3x OM=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,13135,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇮🇱 以色列丨2x IL=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13147,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇸 巴勒斯坦丨3x PS=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13158,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇷 土耳其丨1x TR=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12603,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇳🇵 尼泊尔丨1x NP=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12720,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇩 孟加拉丨2x BD=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12724,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇱🇧 黎巴嫩丨5x LB=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13123,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇮🇶 伊拉克丨3x IQ=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13202,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇫 阿富汗丨3x AF=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13213,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇶🇦 卡塔尔丨3x QA=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,13181,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇼 科威特丨5x KW=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13170,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇪 阿联酋丨2x AE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13174,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇪 阿联酋住宅丨5x AE=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20173,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇿 阿塞拜疆丨2x AZ=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12606,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇲 亚美尼亚丨2x AM=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12737,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇪 格鲁吉亚丨1x GE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13178,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇰 巴基斯坦丨3x PK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12605,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇱🇰 斯里兰卡丨10x LK=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20043,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇦 沙特阿拉伯 01丨3x SA=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13175,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇦 沙特阿拉伯 02丨3x SA=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20044,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇿 哈萨克斯坦丨2x KZ=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12602,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇯 塔吉克斯坦丨3x TJ=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13192,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇬 吉尔吉斯斯坦丨3x KG=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13120,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇿 乌兹别克斯坦丨1x UZ=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20025,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇺 澳大利亚-悉尼丨2x AU=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12324,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇺 澳大利亚-珀斯丨2x AU=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20178,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇺 澳大利亚-墨尔本丨2x AU=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12401,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇺 澳大利亚家宽丨5x AU=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20058,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇳🇿 新西兰丨2x NZ=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,12326,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇳🇿 新西兰家宽丨3x NZ=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20023,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇫🇷 法国 01丨1x FR=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12621,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇫🇷 法国 02丨1x FR=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13191,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇫🇷 法国家宽丨10x FR=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13193,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇧 英国丨1x GB=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12710,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇧 英国家宽 01丨5x GB=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13177,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇧 英国家宽 02丨5x GB=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13152,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇧 英国家宽 03丨5x GB=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13187,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇧 英国家宽 04丨5x GB=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13195,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇧 英国星链丨10x GB=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13196,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇩🇪 德国丨1x DE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12619,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇩🇪 德国家宽丨10x DE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13190,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇩🇰 丹麦丨1x DK=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12608,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇳🇴 挪威丨1x NO=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12610,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇪 瑞典丨1x SE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12611,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇫🇮 芬兰丨1x FI=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12609,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇫🇮 芬兰家宽丨5x FI=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13179,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇮🇸 冰岛丨2x IS=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12607,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇭 瑞士丨1x CH=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12630,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇿 捷克丨1x CZ=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12613,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇷 希腊丨1x GR=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12615,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇳🇱 荷兰丨1x NL=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12622,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇱 波兰丨1x PL=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12261,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇷🇺 俄罗斯丨1x RU=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13122,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇦 乌克兰丨2x UA=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12614,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇺 匈牙利丨1x HU=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12631,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇱🇺 卢森堡丨2x LU=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12629,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇹 奥地利丨2x AT=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12628,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇮🇹 意大利丨1x IT=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12616,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇪 比利时丨1x BE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12618,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇮🇪 爱尔兰丨2x IE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12617,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇱🇹 立陶宛丨1x LT=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12652,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇪🇸 西班牙丨1x ES=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12625,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇹 葡萄牙丨1x PT=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12624,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇩 安道尔丨3x AD=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13211,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇹 马耳他丨3x MT=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12743,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇽🇰 科索沃丨3x XK=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13194,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇬 保加利亚丨1x BG=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12634,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇷 克罗地亚丨2x HR=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12646,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇰 北马其顿丨2x MK=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12645,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇷🇸 塞尔维亚住宅丨3x RS=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12647,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇾 塞浦路斯丨1x CY=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12654,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇱🇻 拉脱维亚丨1x LV=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12649,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇩 摩尔多瓦丨2x MD=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12651,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇰 斯洛伐克丨1x SK=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12650,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇪🇪 爱沙尼亚丨1x EE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12635,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇾 白俄罗斯丨3x BY=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12633,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇷🇴 罗马尼亚丨1x RO=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12641,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇮 斯洛文尼亚丨2x SI=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12653,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇱 阿尔巴尼亚丨1x AL=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12642,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇦 波黑共和国丨2x BA=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12643,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇷🇪 法属留尼汪丨2x RE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13176,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-费城丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13110,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-纽约 01丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13006,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-纽约 02丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13284,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-纽约 03丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13295,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-洛杉矶 01丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13007,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-洛杉矶 02丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13010,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-洛杉矶 03丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,12706,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-洛杉矶 04丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13277,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-洛杉矶 05丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13296,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-洛杉矶 06丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13297,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-盐湖城丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13271,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-圣何塞丨5x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13107,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-迈阿密丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13109,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-西雅图丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13111,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-檀香山丨3x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13108,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-旧金山丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13113,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-凤凰城丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13287,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-达拉斯丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13267,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-休斯顿丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13293,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-堪萨斯丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13118,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-芝加哥丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13253,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-夏洛特丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13257,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-斯波坎丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13266,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-阿什本丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13285,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-拉斯维加斯丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13268,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-实验节点丨1x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13303,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-家宽 01丨5x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13114,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-家宽 02丨5x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13227,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-家宽 03丨5x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13228,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-家宽 04丨5x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13213,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-家宽 05丨5x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13301,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国-家宽 06丨5x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13302,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇸 美国星链丨10x US=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13232,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇦 加拿大-家宽 01丨2x CA=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13117,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇦 加拿大-家宽 02丨1x CA=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13270,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇽 墨西哥丨2x MX=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13004,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇽 墨西哥家宽丨5x MX=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13280,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇽 墨西哥星链丨10x MX=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13289,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇦 巴拿马丨3x PA=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,12704,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇲 英属百慕大丨3x BM=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13309,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇷 哥斯达黎加丨1x CR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,12719,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇷 巴西丨1x BR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13103,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇱 智利丨2x CL=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13104,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇪 秘鲁丨3x PE=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13016,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇷 阿根廷 01丨2x AR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13015,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇷 阿根廷 02丨2x AR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13211,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇺🇾 乌拉圭丨3x UY=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,12715,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇾 巴拉圭丨3x PY=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13245,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇸 巴哈马丨3x BS=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13254,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇫 法属圭亚那丨3x GF=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13251,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇼 荷属库拉索丨3x CW=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13115,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇶 法属马提尼克丨3x MQ=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13279,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇹 特立尼达和多巴哥丨3x TT=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13252,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇴 哥伦比亚丨3x CO=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13246,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇪🇨 厄瓜多尔丨3x EC=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13106,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇴 玻利维亚住宅丨5x BO=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13255,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇹 危地马拉丨1x GT=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13218,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇻 萨尔瓦多丨1x SV=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13281,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇷 波多黎各丨3x PR=ss,cdcfe0bb-7615-43ea-8dce-1516aa8852fc.sankuaei.com,20170,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇵🇷 波多黎各住宅丨5x PR=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13219,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇭🇳 洪都拉斯丨3x HN=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13237,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇩🇴 多米尼加丨3x DO=ss,ffef53ac-e4fe-4a47-ab4a-911247dd7ea0.aixifan7498.com,13306,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇪🇬 埃及丨3x EG=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12718,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇬🇭 加纳丨3x GH=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13206,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇬 多哥丨3x TG=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13137,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇿🇦 南非 01丨2x ZA=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12036,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇿🇦 南非 02丨1x ZA=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13189,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇨🇬 刚果（布）丨3x CG=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13214,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇦 摩洛哥丨3x MA=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13217,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇳 突尼斯丨2x TN=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12703,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇱🇾 利比亚丨3x LY=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13212,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇰🇪 肯尼亚丨1x KE=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12716,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇷🇼 卢旺达丨3x RW=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13215,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇦🇴 安哥拉丨3x AO=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13145,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇳🇬 尼日利亚丨2x NG=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,12648,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇳🇬 尼日利亚住宅丨5x NG=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13184,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇺 毛里求斯丨2x MU=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13118,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇹🇿 坦桑尼亚丨5x TZ=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13171,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇸🇳 塞内加尔丨3x SN=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13216,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇩🇿 阿尔及利亚丨3x DZ=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13157,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇲🇬 马达加斯加丨3x MG=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13173,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇧🇫 布基纳法索丨5x BF=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13203,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
-🇪🇹 埃塞俄比亚丨3x ET=ss,6b7d1586-ddc9-4bc4-846b-9aeec018ea4c.afdiancdn.org,13201,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇰 香港 01丨1x HK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12022,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇰 香港 02丨1x HK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12023,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇰 香港 03丨1x HK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12024,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇰 香港家宽 01丨1x HK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12729,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇰 香港家宽 02丨1x HK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,13105,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇰 香港家宽 03丨1x HK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,13115,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇰 香港家宽 04丨1x HK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20187,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇰 香港游戏丨2x HK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12312,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇴 澳门家宽 01丨5x MO=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,19527,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇴 澳门家宽 02丨5x MO=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20032,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇼 台湾 01丨1x TW=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12304,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇼 台湾 02丨1x TW=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12305,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇼 台湾 03丨1x TW=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12306,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇼 台湾家宽 01丨2x TW=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20036,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇼 台湾家宽 02丨2x TW=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20037,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇼 台湾家宽 03丨2x TW=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20038,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇼 台湾家宽 04丨3x TW=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20197,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇬 新加坡 01丨1x SG=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12000,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇬 新加坡 02丨1x SG=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12002,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇬 新加坡 03丨1x SG=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12003,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇬 新加坡家宽 01丨10x SG=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12726,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇬 新加坡家宽 02丨10x SG=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,13116,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇾 马来西亚家宽 01丨1x MY=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12727,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇾 马来西亚家宽 02丨1x MY=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,13182,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇭 柬埔寨丨3x KH=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12701,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇭 泰国 01丨3x TH=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20054,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇭 泰国 02丨3x TH=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20059,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇭 泰国家宽丨10x TH=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20181,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇲 缅甸丨10x MM=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,13137,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇱🇦 老挝丨5x LA=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,13138,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇻🇳 越南家宽 01丨2x VN=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12700,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇻🇳 越南家宽 02丨2x VN=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20153,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇻🇳 越南家宽 03丨2x VN=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20154,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本 01丨1x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,12011,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本 02丨1x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,12010,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本 03丨1x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,12012,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 01丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13101,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 02丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13221,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 03丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13240,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 04丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13241,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 05丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13242,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 06丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13272,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 07丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13273,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 08丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13292,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 09丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13299,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 10丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13300,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 11丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13269,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本家宽 12丨3x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13304,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本蜂窝5G丨10x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13282,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇵 日本星链丨10x JP=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13278,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇷 韩国家宽 01丨5x KR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,50017,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇷 韩国家宽 02丨5x KR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,50016,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇷 韩国家宽 03丨5x KR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,50015,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇷 韩国蜂窝5G丨10x KR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13294,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇷 韩国星链丨10x KR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13298,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇹 不丹住宅丨5x BT=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20184,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇳 文莱丨5x BN=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20040,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇺 关岛丨3x GU=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13308,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇫🇯 斐济住宅丨10x FJ=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,13185,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇭 菲律宾丨2x PH=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12406,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇭 菲律宾家宽 01丨5x PH=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20057,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇭 菲律宾家宽 02丨5x PH=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20193,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇮🇩 印尼-棉兰丨1x ID=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12300,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇮🇩 印尼-雅加达丨1x ID=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12301,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇮🇩 印尼家宽丨10x ID=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20195,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇮🇳 印度丨1x IN=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12302,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇳 蒙古丨2x MN=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12328,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇯🇴 约旦丨2x JO=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12708,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇾🇪 也门丨5x YE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13210,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇭 巴林丨5x BH=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20056,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇴🇲 阿曼丨3x OM=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,13135,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇮🇱 以色列丨2x IL=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13147,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇸 巴勒斯坦丨3x PS=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13158,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇷 土耳其丨1x TR=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12603,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇳🇵 尼泊尔丨1x NP=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12720,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇩 孟加拉丨2x BD=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12724,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇱🇧 黎巴嫩丨5x LB=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13123,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇮🇶 伊拉克丨3x IQ=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13202,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇫 阿富汗丨3x AF=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13213,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇶🇦 卡塔尔丨3x QA=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,13181,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇼 科威特丨5x KW=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13170,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇪 阿联酋丨2x AE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13174,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇪 阿联酋住宅丨5x AE=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20173,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇿 阿塞拜疆丨2x AZ=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12606,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇲 亚美尼亚丨2x AM=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12737,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇪 格鲁吉亚丨1x GE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13178,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇰 巴基斯坦丨3x PK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12605,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇱🇰 斯里兰卡丨10x LK=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20043,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇦 沙特阿拉伯 01丨3x SA=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13175,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇦 沙特阿拉伯 02丨3x SA=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20044,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇿 哈萨克斯坦丨2x KZ=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12602,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇯 塔吉克斯坦丨3x TJ=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13192,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇬 吉尔吉斯斯坦丨3x KG=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13120,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇿 乌兹别克斯坦丨1x UZ=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20025,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇺 澳大利亚-悉尼丨2x AU=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12324,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇺 澳大利亚-珀斯丨2x AU=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20178,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇺 澳大利亚-墨尔本丨2x AU=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12401,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇺 澳大利亚家宽丨5x AU=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20058,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇳🇿 新西兰丨2x NZ=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,12326,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇳🇿 新西兰家宽丨3x NZ=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20023,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇫🇷 法国 01丨1x FR=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12621,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇫🇷 法国 02丨1x FR=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13191,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇫🇷 法国家宽丨10x FR=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13193,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇧 英国丨1x GB=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12710,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇧 英国家宽 01丨5x GB=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13177,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇧 英国家宽 02丨5x GB=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13152,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇧 英国家宽 03丨5x GB=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13187,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇧 英国家宽 04丨5x GB=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13195,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇧 英国星链丨10x GB=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13196,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇩🇪 德国丨1x DE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12619,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇩🇪 德国家宽丨10x DE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13190,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇩🇰 丹麦丨1x DK=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12608,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇳🇴 挪威丨1x NO=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12610,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇪 瑞典丨1x SE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12611,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇫🇮 芬兰丨1x FI=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12609,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇫🇮 芬兰家宽丨5x FI=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13179,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇮🇸 冰岛丨2x IS=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12607,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇭 瑞士丨1x CH=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12630,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇿 捷克丨1x CZ=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12613,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇷 希腊丨1x GR=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12615,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇳🇱 荷兰丨1x NL=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12622,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇱 波兰丨1x PL=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12261,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇷🇺 俄罗斯丨1x RU=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13122,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇦 乌克兰丨2x UA=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12614,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇺 匈牙利丨1x HU=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12631,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇱🇺 卢森堡丨2x LU=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12629,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇹 奥地利丨2x AT=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12628,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇮🇹 意大利丨1x IT=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12616,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇪 比利时丨1x BE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12618,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇮🇪 爱尔兰丨2x IE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12617,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇱🇹 立陶宛丨1x LT=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12652,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇪🇸 西班牙丨1x ES=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12625,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇹 葡萄牙丨1x PT=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12624,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇩 安道尔丨3x AD=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13211,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇹 马耳他丨3x MT=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12743,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇽🇰 科索沃丨3x XK=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13194,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇬 保加利亚丨1x BG=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12634,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇷 克罗地亚丨2x HR=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12646,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇰 北马其顿丨2x MK=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12645,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇷🇸 塞尔维亚住宅丨3x RS=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12647,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇾 塞浦路斯丨1x CY=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12654,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇱🇻 拉脱维亚丨1x LV=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12649,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇩 摩尔多瓦丨2x MD=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12651,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇰 斯洛伐克丨1x SK=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12650,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇪🇪 爱沙尼亚丨1x EE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12635,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇾 白俄罗斯丨3x BY=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12633,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇷🇴 罗马尼亚丨1x RO=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12641,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇮 斯洛文尼亚丨2x SI=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12653,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇱 阿尔巴尼亚丨1x AL=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12642,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇦 波黑共和国丨2x BA=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12643,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇷🇪 法属留尼汪丨2x RE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13176,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-费城丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13110,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-纽约 01丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13006,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-纽约 02丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13284,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-纽约 03丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13295,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-洛杉矶 01丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13007,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-洛杉矶 02丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13010,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-洛杉矶 03丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,12706,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-洛杉矶 04丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13277,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-洛杉矶 05丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13296,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-洛杉矶 06丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13297,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-盐湖城丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13271,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-圣何塞丨5x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13107,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-迈阿密丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13109,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-西雅图丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13111,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-檀香山丨3x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13108,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-旧金山丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13113,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-凤凰城丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13287,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-达拉斯丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13267,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-休斯顿丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13293,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-堪萨斯丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13118,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-芝加哥丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13253,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-夏洛特丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13257,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-斯波坎丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13266,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-阿什本丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13285,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-拉斯维加斯丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13268,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-实验节点丨1x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13303,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-家宽 01丨5x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13114,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-家宽 02丨5x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13227,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-家宽 03丨5x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13228,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-家宽 04丨5x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13213,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-家宽 05丨5x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13301,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国-家宽 06丨5x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13302,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇸 美国星链丨10x US=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13232,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇦 加拿大-家宽 01丨2x CA=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13117,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇦 加拿大-家宽 02丨1x CA=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13270,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇽 墨西哥丨2x MX=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13004,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇽 墨西哥家宽丨5x MX=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13280,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇽 墨西哥星链丨10x MX=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13289,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇦 巴拿马丨3x PA=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,12704,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇲 英属百慕大丨3x BM=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13309,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇷 哥斯达黎加丨1x CR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,12719,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇷 巴西丨1x BR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13103,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇱 智利丨2x CL=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13104,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇪 秘鲁丨3x PE=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13016,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇷 阿根廷 01丨2x AR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13015,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇷 阿根廷 02丨2x AR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13211,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇺🇾 乌拉圭丨3x UY=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,12715,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇾 巴拉圭丨3x PY=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13245,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇸 巴哈马丨3x BS=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13254,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇫 法属圭亚那丨3x GF=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13251,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇼 荷属库拉索丨3x CW=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13115,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇶 法属马提尼克丨3x MQ=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13279,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇹 特立尼达和多巴哥丨3x TT=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13252,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇴 哥伦比亚丨3x CO=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13246,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇪🇨 厄瓜多尔丨3x EC=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13106,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇴 玻利维亚住宅丨5x BO=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13255,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇹 危地马拉丨1x GT=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13218,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇻 萨尔瓦多丨1x SV=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13281,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇷 波多黎各丨3x PR=ss,1fa3835d-9e35-40c5-b2d4-b2c4c24a1529.definition-meaning.top,20170,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇵🇷 波多黎各住宅丨5x PR=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13219,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇭🇳 洪都拉斯丨3x HN=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13237,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇩🇴 多米尼加丨3x DO=ss,6e85eef3-bcaf-444a-8283-8aac0d554cbc.sfr-bouygues.cloud,13306,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇪🇬 埃及丨3x EG=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12718,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇬🇭 加纳丨3x GH=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13206,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇬 多哥丨3x TG=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13137,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇿🇦 南非 01丨2x ZA=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12036,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇿🇦 南非 02丨1x ZA=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13189,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇨🇬 刚果（布）丨3x CG=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13214,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇦 摩洛哥丨3x MA=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13217,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇳 突尼斯丨2x TN=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12703,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇱🇾 利比亚丨3x LY=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13212,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇰🇪 肯尼亚丨1x KE=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12716,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇷🇼 卢旺达丨3x RW=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13215,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇦🇴 安哥拉丨3x AO=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13145,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇳🇬 尼日利亚丨2x NG=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,12648,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇳🇬 尼日利亚住宅丨5x NG=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13184,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇺 毛里求斯丨2x MU=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13118,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇹🇿 坦桑尼亚丨5x TZ=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13171,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇸🇳 塞内加尔丨3x SN=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13216,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇩🇿 阿尔及利亚丨3x DZ=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13157,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇲🇬 马达加斯加丨3x MG=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13173,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇧🇫 布基纳法索丨5x BF=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13203,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
+🇪🇹 埃塞俄比亚丨3x ET=ss,1014f589-b81c-4ddd-b707-76c4a2ae6b9a.portail-offres.top,13201,encrypt-method=aes-128-gcm,password=haMLMXirByn6rGVh,obfs=http,obfs-host=9dfb850dbf11.microsoft.com,udp-relay=true
